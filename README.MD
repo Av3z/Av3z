@@ -7,18 +7,19 @@
 - Android Developer
 - Spigot / Bukkit Developer
 
-###Frameworks
+<h3>Frameworks </h3>
 
 - Spring Boot
 - Bootstrap 4/5
 - MaterializeCSS
 
 
-###About
+<h3> Git Stats </h3>
 
 
 [![Av3z GitHub stats](https://github-readme-stats.vercel.app/api?username=av3z&show_icons=true)](https://github.com/av3z/av3z)
 
-###Languages
+<h3> Languages </h3>
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=av3z&layout=compact)](https://github.com/av3z/av3z)
 

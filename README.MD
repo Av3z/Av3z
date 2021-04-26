@@ -16,7 +16,7 @@
 - Bootstrap 4/5
 - MaterializeCSS
 - Spigot / Bukkit
-- JDA (API DISCORD JAVA)
+- JDA (JAVA DISCORD API)
 
 <h3>Databases </h3>
 

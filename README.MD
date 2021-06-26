@@ -9,6 +9,7 @@
 - HTML/CSS/JS
 - SQL
 - Python
+- LUA
 
 <h3>Frameworks </h3>
 

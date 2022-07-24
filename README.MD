@@ -11,13 +11,18 @@
 - Python
 - LUA
 
-<h3>Frameworks </h3>
+<h3>Back-end Frameworks </h3>
 
+- NodeJS
 - Spring Boot
-- Bootstrap 4/5
-- MaterializeCSS
 - Spigot / Bukkit
 - JDA (JAVA DISCORD API)
+
+<h3>Front-end Frameworks </h3>
+
+- Bootstrap 4/5
+- MaterializeCSS
+- TailwindCSS
 
 <h3>Databases </h3>
 
@@ -25,6 +30,13 @@
 - MySQL
 - PostgreSQL
 - MongoDB
+
+<h3>Game Engines </h3>
+
+- Unity 5
+- Unreal Engine 4
+- Roblox Studio
+- BlockMan Go Editor
 
 
 <h3> Git Stats </h3>

@@ -27,6 +27,7 @@
 <h3>Databases </h3>
 
 - SQlite
+- Firebase
 - MySQL
 - PostgreSQL
 - MongoDB

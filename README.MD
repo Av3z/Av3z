@@ -14,6 +14,7 @@
 <h3>Back-end Frameworks </h3>
 
 - NodeJS
+- Expo
 - Spring Boot
 - Spigot / Bukkit
 - JDA (JAVA DISCORD API)

@@ -21,6 +21,18 @@ Minha trajetória combina experiência prática em **arquiteturas limpas, padrõ
 
 ## 💼 Experiência Profissional  
 
+### 🔹 Desenvolvedor Mobile Flutter – Onea (App de Rede Social)  
+**Ago/2024 – atual**  
+
+- Criação de funcionalidades sociais como **stories, feed e interações**, desenvolvidas do zero com foco em **performance e usabilidade**.  
+- Desenvolvimento de **interfaces personalizadas** para edição de imagens e vídeos, com componentes totalmente customizados.  
+- Implementação de **galeria de mídia própria**, integrada e otimizada para a experiência do usuário.  
+- Aplicação de **Clean Architecture** e uso extensivo do padrão **BloC**, garantindo modularidade, testabilidade e escalabilidade.  
+- Cobertura robusta de **testes unitários**, sempre buscando alcançar o mais próximo de **100%**.  
+- Atuação em **ambiente ágil**, com foco em entregas contínuas, colaboração em equipe e melhoria contínua.  
+
+---
+
 ### 🔹 Consultor Flutter – FAO/ONU (App Lazos)  
 **Ago/2024 – atual**  
 
@@ -58,4 +70,4 @@ Minha trajetória combina experiência prática em **arquiteturas limpas, padrõ
 ## 📬 Contato  
 
 - **LinkedIn**: [willyan-lauriente](https://www.linkedin.com/in/willyan-lauriente-89a88a182/)  
-- **GitHub**: [seu-usuário-aqui](https://github.com/seu-usuario)  
+- **GitHub**: [Av3z](https://github.com/Av3z)
